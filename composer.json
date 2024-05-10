@@ -1,0 +1,18 @@
+{
+    "name": "alpaca/base",
+    "description": "基础组件-仅限开发者使用此sdk的用户使用",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Alpaca\\Base\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "移动的羊驼",
+            "email": "13709030947@163.com"
+
+        }
+    ],
+    "require": {}
+}
