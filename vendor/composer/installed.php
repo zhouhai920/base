@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'alpaca/base',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '4aa3e5283b037c5747ae184f331667e8293da394',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'alpaca/base' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '4aa3e5283b037c5747ae184f331667e8293da394',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
