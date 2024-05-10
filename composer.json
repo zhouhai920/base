@@ -1,5 +1,5 @@
 {
-    "name": "alpaca/base",
+    "name": "move_alpaca/base",
     "description": "基础组件-仅限开发者使用此sdk的用户使用",
     "type": "library",
     "autoload": {
